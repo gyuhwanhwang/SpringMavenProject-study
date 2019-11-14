@@ -1,4 +1,3 @@
-# SpringMavenProject
+# SpringMavenProject - study
 
-## spring maven oracle 
-# SpringMavenProject-study
+## spring maven oracle Mybatis
